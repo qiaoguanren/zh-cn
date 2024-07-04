@@ -1,4 +1,4 @@
-# 📝 Publication
+# 📝 文章刊物
 
 # 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ECCV2024.png' alt="sym" width="100%"></div></div>
