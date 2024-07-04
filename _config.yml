@@ -7,6 +7,7 @@
 
 # Site Settings
 title                    : "乔冠仁"
+image                    : "images/me.jpg"
 description              : "在读博士生"
 repository               : "qiaoguanren/qiaoguanren.github.io"
 google_scholar_stats_use_cdn : false
