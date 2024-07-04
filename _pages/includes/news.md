@@ -1,4 +1,4 @@
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-news'></span>
 # 🔥 新闻
 - 2024.07: 一篇文章被顶会 ECCV 2024接收.<br />
 - 2023.09: 一篇文章被顶会 NeurIPS 2023接收.<br />
