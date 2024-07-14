@@ -1,5 +1,5 @@
 <span class='anchor' id='about-me'></span>
-我现在是香港中文大学（深圳）数据科学学院的一名在读博士生，师从<a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'>刘桂良教授</a>。
+我现在是香港中文大学（深圳）数据科学学院的一名在读博士生，师从<a href='https://guiliang.me/'>刘桂良教授</a>。
 
 **工作经历和教育背景**：我在北京邮电大学计算机科学与技术学院获得学士学位。2022年，我还在北京大学王选计算机研究所完成了研究实习，师从<a href='https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288883.htm'>吕肖庆教授</a>。
 
